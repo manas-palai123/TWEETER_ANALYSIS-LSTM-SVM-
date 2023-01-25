@@ -1,2 +1,5 @@
 # TWEETER ANALYSIS USING ( NLP , LSTM , SVM )
 ![sentiment](https://user-images.githubusercontent.com/52438825/214576397-97d42084-ddb6-4118-a236-f2e122020f8e.png)
+![positive_word](https://user-images.githubusercontent.com/52438825/214577413-1ba61def-a657-4fbd-be43-618583ed53c1.png)
+![negative_word](https://user-images.githubusercontent.com/52438825/214578193-d4fcb02c-7d6e-4541-8646-2ef6dfc95c3f.png)
+![confusion_matrix](https://user-images.githubusercontent.com/52438825/214578855-9b947085-3e1d-4721-8609-d742554882cd.PNG)
